@@ -1,0 +1,5 @@
+keras
+numpy
+pillow
+tensorflow
+imageio
